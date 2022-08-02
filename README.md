@@ -1,6 +1,6 @@
 ## Matthew Geyer
 
-### Howdy!
+### Howdy! 🤠
 
 #### Boston, MA
 
