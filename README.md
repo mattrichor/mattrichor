@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew Geyer
+Howdy! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew Geyer
 =====================================================================================================================================
 
 I am a software engineer with endless curiosity for bringing creativity to the art of problem-solving. My background as a former career airline pilot and flight instructor fostered a love for things that move & what makes them work. I'm no stranger to utilizing care and presence in the pursuit of a job well done, whether that be through solving complex & time-sensitive problems in a fast paced crew environment, or building bicycles for friends.
