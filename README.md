@@ -5,7 +5,6 @@ I am a software engineer with endless curiosity for bringing creativity to the a
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [matt.a.geyer@gmail.com](mailto:matt.a.geyer@gmail.com)
-* 🧠  I'm learning Python and Vue, with a healthy dose of Django on the side
 
 ### Skills
 
